@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Quack/static/css/main.e6c13ad2.css",
+    "main.js": "/Quack/static/js/main.1040436e.js",
+    "static/js/787.fc7a31c1.chunk.js": "/Quack/static/js/787.fc7a31c1.chunk.js",
+    "static/media/Charlie.jpg": "/Quack/static/media/Charlie.5c66ac52b6e3ff30b916.jpg",
+    "index.html": "/Quack/index.html",
+    "main.e6c13ad2.css.map": "/Quack/static/css/main.e6c13ad2.css.map",
+    "main.1040436e.js.map": "/Quack/static/js/main.1040436e.js.map",
+    "787.fc7a31c1.chunk.js.map": "/Quack/static/js/787.fc7a31c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1040436e.js"
+  ]
+}
